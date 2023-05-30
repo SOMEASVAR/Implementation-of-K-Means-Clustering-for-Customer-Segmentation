@@ -63,18 +63,18 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-data.head() function:
+## data.head() function:
 ![image](https://github.com/SOMEASVAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93434149/6cf30b0c-efea-419f-9f81-94541811c5db)
-data.info():
+## data.info():
 ![image](https://github.com/SOMEASVAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93434149/6ffad7df-fb1b-4065-8c9f-2e7e67f3acae)
-data.isnull().sum() function:
+## data.isnull().sum() function:
 ![image](https://github.com/SOMEASVAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93434149/0372e754-75b6-4598-8b59-e8baeef06403)
-Elbow method Graph:
+## Elbow method Graph:
 ![image](https://github.com/SOMEASVAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93434149/948e73fc-0b15-4344-8f04-66704341443c)
-KMeans clusters:
+## KMeans clusters:
 ![image](https://github.com/SOMEASVAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93434149/fee009a3-c947-4c00-be61-ff6e5ff376c1)
 ![image](https://github.com/SOMEASVAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93434149/e95c96c8-b6b6-4447-b2e5-f06aca4f69fb)
-Customer segments Graph:
+## Customer segments Graph:
 ![image](https://github.com/SOMEASVAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93434149/5f318a35-d2d3-4229-a277-f2037af2a390)
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
